@@ -1,5 +1,8 @@
 from controller import Robot
 
+TIME_STEP = 64
+MAX_SPEED = 6.28
+
 # Inisialisasi robot
 robot = Robot()
 
